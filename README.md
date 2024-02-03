@@ -1,5 +1,5 @@
 <p align=""center">
-  ![banner](https://github.com/moeinmnia80/moeinmnia80/assets/86520846/128cd5ac-f561-428f-9c38-8ed5ccf55541)
+  <image src="https://github.com/moeinmnia80/moeinmnia80/assets/86520846/128cd5ac-f561-428f-9c38-8ed5ccf55541" alt="my banner") />
 </p>
 ## Hi there 👋
 
