@@ -2,7 +2,7 @@
   <image src="https://github.com/moeinmnia80/moeinmnia80/assets/86520846/128cd5ac-f561-428f-9c38-8ed5ccf55541" alt="my banner") />
 </p>
     
-### Hi there 👋
+### Hi there, I'm moein 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=DAA5AD&random=false&width=435&lines=I'm+a+front-end+developer;welcome+to+my+github+page+body)](https://git.io/typing-svg)
 
 I'm moein and 23 years old and intrested in programming.
