@@ -1,10 +1,11 @@
-![banner](https://github.com/moeinmnia80/moeinmnia80/assets/86520846/128cd5ac-f561-428f-9c38-8ed5ccf55541)
-
+<p align=""center">
+  ![banner](https://github.com/moeinmnia80/moeinmnia80/assets/86520846/128cd5ac-f561-428f-9c38-8ed5ccf55541)
+</p>
 ## Hi there 👋
 
 I'm moein and 23 years old and intrested in programming.
 
-![instagram](tagram.com/moeinmnia/)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 
 <!--
