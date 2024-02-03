@@ -28,6 +28,14 @@ I'm moein and 23 years old and intrested in programming.
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moeinmnia80)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=moeinmnia80&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/moeinmnia80/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=moeinmnia80&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/moeinmnia80/github-readme-stats#gh-light-mode-only)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moeinmnia80&layout=compact)-->
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moeinmnia80&show_icons=true)-->
+
+
 <!--
 **moeinmnia80/moeinmnia80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
