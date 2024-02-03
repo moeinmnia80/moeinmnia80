@@ -3,7 +3,8 @@
 </p>
     
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=DAA5AD&random=false&width=435&lines=I'm+a+front-end+developer;welcome+to+my+github+page+body)](https://git.io/typing-svg).
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=DAA5AD&random=false&width=435&lines=I'm+a+front-end+developer;welcome+to+my+github+page+body)](https://git.io/typing-svg)
+
 I'm moein and 23 years old and intrested in programming.
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
