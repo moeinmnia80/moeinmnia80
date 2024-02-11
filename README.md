@@ -45,12 +45,6 @@ My github page state:
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=moeinmnia80&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/moeinmnia80/github-readme-stats#gh-light-mode-only)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moeinmnia80&layout=compact)-->
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moeinmnia80&show_icons=true)-->
-My resume:
-
-<p align="center">
-    <image src="https://github.com/moeinmnia80/moeinmnia80/assets/86520846/bcafc853-d78a-4e5f-8411-bf0a5e6e1f12" alt="resume") />
-</p>
-
 <!--
 **moeinmnia80/moeinmnia80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
