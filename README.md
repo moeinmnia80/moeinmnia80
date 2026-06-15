@@ -1,4 +1,5 @@
 <p align=""center">
+  <img alt="cover" src="https://github.com/user-attachments/assets/f2ff78b9-58ce-49c2-91d8-7e9aca4e3d48" />
   <image src="https://github.com/moeinmnia80/moeinmnia80/assets/86520846/128cd5ac-f561-428f-9c38-8ed5ccf55541" alt="my banner") />
 </p>
 
