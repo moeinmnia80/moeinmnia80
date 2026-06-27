@@ -112,6 +112,13 @@ and the intersection of developer experience and end-user experience.
 
 ---
 
+## What I do
+
+| **Web applications** | React and Next.js apps built for real-world use — responsive, performant, maintainable. |
+| **UI / design systems** | Component libraries and design tokens that keep your product consistent at any scale. |
+| **Frontend integration** | Connecting your UI to REST APIs, GraphQL, or third-party services cleanly. |
+| **Performance & cleanup** | Auditing and improving existing codebases — speed, accessibility, code quality. |
+
 ## Pinned Projects
 
 > Replace these with your actual projects — pin your best 2–3 repos on your GitHub profile too.
@@ -128,27 +135,4 @@ and the intersection of developer experience and end-user experience.
 <sub>available for freelance work · moeinmohammadnia@yahoo.com</sub>
 </div>
 
-
-> I build web interfaces that help businesses grow — fast to load, straightforward to use, and built to scale.
-
----
-
-## What I do
-
-| | |
-|---|---|
-| **Web applications** | React and Next.js apps built for real-world use — responsive, performant, maintainable. |
-| **UI / design systems** | Component libraries and design tokens that keep your product consistent at any scale. |
-| **Frontend integration** | Connecting your UI to REST APIs, GraphQL, or third-party services cleanly. |
-| **Performance & cleanup** | Auditing and improving existing codebases — speed, accessibility, code quality. |
-
-
----
-
-## Let's work together
-
-I'm open to freelance projects, long-term contracts, and consulting engagements.
-
-- **LinkedIn** — [linkedin.com/in/moeinmnia](https://linkedin.com/in/moeinmnia)
-- **Email** — moeinmohammadnia@yahoo.com
 
