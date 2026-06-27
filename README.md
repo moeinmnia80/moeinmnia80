@@ -110,14 +110,6 @@ and the intersection of developer experience and end-user experience.
 
 </div>
 
----
-
-## What I do
-
-| **Web applications** | React and Next.js apps built for real-world use — responsive, performant, maintainable. |
-| **UI / design systems** | Component libraries and design tokens that keep your product consistent at any scale. |
-| **Frontend integration** | Connecting your UI to REST APIs, GraphQL, or third-party services cleanly. |
-| **Performance & cleanup** | Auditing and improving existing codebases — speed, accessibility, code quality. |
 
 ## Pinned Projects
 
