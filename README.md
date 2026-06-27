@@ -22,8 +22,8 @@ moeinmnia80 / README.md
 <tr>
 <td valign="top" width="70%">
 
-### Mohammad Moein
-`~/` frontend developer · freelancer · mashhad
+# Mohammad Moein
+**Frontend Developer** &nbsp;·&nbsp; Mashhad, Iran &nbsp;·&nbsp; 🟢 Available for projects
 
 Building fast, accessible UIs with React and Next.js.
 Interested in great design systems, clean component APIs,
@@ -127,8 +127,7 @@ and the intersection of developer experience and end-user experience.
 <div align="center">
 <sub>available for freelance work · moeinmohammadnia@yahoo.com</sub>
 </div>
-# Mohammad Moein
-**Frontend Developer** &nbsp;·&nbsp; Mashhad, Iran &nbsp;·&nbsp; 🟢 Available for projects
+
 
 > I build web interfaces that help businesses grow — fast to load, straightforward to use, and built to scale.
 
@@ -143,35 +142,6 @@ and the intersection of developer experience and end-user experience.
 | **Frontend integration** | Connecting your UI to REST APIs, GraphQL, or third-party services cleanly. |
 | **Performance & cleanup** | Auditing and improving existing codebases — speed, accessibility, code quality. |
 
----
-
-## Technology
-
-`React` &nbsp; `Next.js` &nbsp; `TypeScript` &nbsp; `JavaScript` &nbsp; `GraphQL` &nbsp; `React Query` &nbsp; `Redux` &nbsp; `TailwindCSS` &nbsp; `MUI` &nbsp; `Styled Components` &nbsp; `SASS` &nbsp; `Vite` &nbsp; `Git` &nbsp; `REST APIs` &nbsp; `JWT`
-
----
-
-## How I work
-
-**01 — Understand your goal**
-I start by learning what your business needs — not just what the UI should look like, but what problem it should solve.
-
-**02 — Deliver clean, documented work**
-Every project I ship is readable, well-structured, and handoff-ready — so your team can own it after I'm done.
-
-**03 — Communicate clearly**
-You'll always know where things stand. I give honest timelines and flag blockers early.
-
----
-
-## Selected projects
-
-> *(Add 2–3 real projects here with a one-line description and a link. This is the most important section for clients.)*
-
-| Project | Description | Stack |
-|---|---|---|
-| [Project name](https://github.com/moeinmnia80) | What it does and the business problem it solves | React · TypeScript |
-| [Project name](https://github.com/moeinmnia80) | What it does and the business problem it solves | Next.js · Tailwind |
 
 ---
 
