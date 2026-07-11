@@ -128,3 +128,113 @@ and the intersection of developer experience and end-user experience.
 </div>
 
 
+new 
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Moein+%F0%9F%91%8B;Front-End+Developer+%E2%9D%A4%EF%B8%8F;React+%2B+TypeScript+Enthusiast;Learning+AI%2C+one+model+at+a+time+%F0%9F%A4%96" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<img align="right" width="40%" src="https://raw.githubusercontent.com/ryan-yang125/ryan-yang125/main/gif3.gif" alt="coding gif" />
+
+### 🖐️ About Me
+
+- 🎓 25 y/o Front-End Developer based in **Mashhad, Iran**
+- 💻 Building with **React, TypeScript, Redux Toolkit (RTK Query), Zustand, React Hook Form, Zod, Tailwind CSS, Vite** — shipping to **Vercel**
+- 🛠️ Comfortable dipping into the backend too (Node.js, Express, MySQL)
+- 🧠 Currently deep-diving into **AI** — LLMs, prompt engineering, RAG — because I want to build things that are actually *creative*, not just functional
+- 🕊️ Freelancer, open to interesting work
+- ⚡ Fun fact: I debug SSR issues by muttering "why is `window` undefined" at 2am
+
+<br clear="right"/>
+
+---
+
+### 🧰 Tech Stack
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**[🏭 warehouse](https://github.com/moeinmnia80/warehouse)**
+Fullstack feature-based app — React, Redux Toolkit, Zustand, Tailwind, TypeScript
+[🔗 Live demo](https://warehouse-markist.vercel.app)
+
+</td>
+<td width="50%">
+
+**[🛍️ hidy-shopping](https://github.com/moeinmnia80/hidy-shopping)**
+Shopping web app with RTK Query, React Router, Zustand & Tailwind
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[💄 shopping-BeautyA](https://github.com/moeinmnia80/shopping-BeautyA)**
+TypeScript e-commerce project with Swiper carousel
+[🔗 Live demo](https://beauty-a.netlify.app)
+
+</td>
+<td width="50%">
+
+**[🔐 login-fullstack](https://github.com/moeinmnia80/login-fullstack)**
+RESTful auth API — Node.js, Express, MySQL, bcrypt
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=moeinmnia80&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeinmnia80&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moeinmnia80&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</div>
+
+---
+
+### 🎯 Currently Exploring
+
+```txt
+🤖 Learning: LLM fundamentals → prompt engineering → context engineering (RAG, embeddings) → tool use
+🎯 Goal: build creative AI-powered projects, leaning on my frontend strengths
+```
+
+---
+
+<div align="center">
+
+📫 **Let's connect** — always happy to talk code, React patterns, or AI experiments.
+
+<img src="https://komarev.com/ghpvc/?username=moeinmnia80&style=flat-square&color=blue" alt="profile views"/>
+
+</div>
