@@ -105,20 +105,6 @@ and the intersection of developer experience and end-user experience.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=moeinmnia80&show_icons=true&theme=transparent&hide_border=true&title_color=6e40c9&text_color=8b949e&icon_color=6e40c9&hide=contribs" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeinmnia80&layout=compact&theme=transparent&hide_border=true&title_color=6e40c9&text_color=8b949e&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=moeinmnia80&theme=transparent&hide_border=true&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9)
-
-</div>
 
 
 ## Pinned Projects
