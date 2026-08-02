@@ -32,7 +32,8 @@ and the intersection of developer experience and end-user experience.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/moeinmnia)
 [![Email](https://img.shields.io/badge/Email-6001D2?style=flat-square&logo=yahoo&logoColor=white)](mailto:moeinmohammadnia@yahoo.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/moeinmnia)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/moein_mnia)
+
 
 </td>
 <td valign="top" width="30%" align="right">
