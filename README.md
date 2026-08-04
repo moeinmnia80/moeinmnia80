@@ -108,11 +108,8 @@ and the intersection of developer experience and end-user experience.
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat-square&logo=pnpm&logoColor=f69220)
-![Prettier](https://img.shields.io/badge/prettier-%23192a32?style=flat-square&logo=prettier&logoColor=dc524a)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black)
-![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=flat-square&logo=esbuild&logoColor=black)
 <!--![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat-squaree&logo=vitest&logoColor=FCC72B)-->
 <!--![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)-->
 
