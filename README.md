@@ -127,6 +127,7 @@ and the intersection of developer experience and end-user experience.
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [cinmax](https://github.com/moeinmnia80/cinmax) | Movies | React, TypeScript, RTK, zustand, Tailwindcss, ... |
 | [warehouse-markist](https://github.com/moeinmnia80/warehouse) | Inventory Management System | React, TypeScript, RTK, zustand, Tailwindcss, ... |
 | [Beauty-a](https://github.com/moeinmnia80/shopping-BeautyA) | E-commerce | React, TypeScript, Tailwindcss, ... |
 | [SBG](https://github.com/moeinmnia80/SBG) | Personal Team Page| React, TailwindCSS, styled-components, graphQL |
